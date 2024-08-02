@@ -1,0 +1,64 @@
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.exe
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.deps.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.runtimeconfig.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.pdb
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.ViaCep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.build.ViaCep.props
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ViaCep.props
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ViaCep.props
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\scopedcss\bundle\ViaCep.styles.css
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.Up2Date
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\refint\ViaCep.dll
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.pdb
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ViaCep\ViaCep\obj\Debug\net8.0\ref\ViaCep.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\appsettings.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.exe
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.deps.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.runtimeconfig.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\ViaCep.pdb
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.ViaCep.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.build.ViaCep.props
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ViaCep.props
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ViaCep.props
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\scopedcss\bundle\ViaCep.styles.css
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.csproj.Up2Date
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\refint\ViaCep.dll
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.pdb
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ViaCep.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Tarefa 3\ViaCep\ViaCep\obj\Debug\net8.0\ref\ViaCep.dll

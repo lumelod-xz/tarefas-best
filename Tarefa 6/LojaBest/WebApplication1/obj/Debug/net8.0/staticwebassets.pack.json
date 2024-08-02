@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\carrinho.html",
+      "PackagePath": "staticwebassets\\carrinho.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\contato.html",
+      "PackagePath": "staticwebassets\\contato.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\icones\\carrinho-de-compras.png",
+      "PackagePath": "staticwebassets\\icones\\carrinho-de-compras.png"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\icones\\facebook.png",
+      "PackagePath": "staticwebassets\\icones\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\icones\\instagram.png",
+      "PackagePath": "staticwebassets\\icones\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\icones\\twitter.png",
+      "PackagePath": "staticwebassets\\icones\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\imagens\\banner1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\imagens\\banner2.jpg",
+      "PackagePath": "staticwebassets\\imagens\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\imagens\\produto1.jpg",
+      "PackagePath": "staticwebassets\\imagens\\produto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\imagens\\produto2.JPG",
+      "PackagePath": "staticwebassets\\imagens\\produto2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\imagens\\produto3.JPG",
+      "PackagePath": "staticwebassets\\imagens\\produto3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\politica-privacidade.html",
+      "PackagePath": "staticwebassets\\politica-privacidade.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\saiba-mais.html",
+      "PackagePath": "staticwebassets\\saiba-mais.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\sobre.html",
+      "PackagePath": "staticwebassets\\sobre.html"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lucas\\Desktop\\Tarefa 5\\LojaBest\\WebApplication1\\wwwroot\\termos-uso.html",
+      "PackagePath": "staticwebassets\\termos-uso.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LojaBest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LojaBest.props",
+      "PackagePath": "build\\LojaBest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LojaBest.props",
+      "PackagePath": "buildMultiTargeting\\LojaBest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LojaBest.props",
+      "PackagePath": "buildTransitive\\LojaBest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

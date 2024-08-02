@@ -1,0 +1,7 @@
+SELECT 
+    CASE 
+        WHEN COUNT(DISTINCT salario) < 2 THEN 'Não há um segundo maior salário'
+        ELSE CAST(MAX(salario) AS CHAR) 
+    END AS segundo_maior_salario
+FROM 
+    (SELECT DISTINCT salario FROM Employee ORDER BY salario DESC LIMIT 2) AS sub;

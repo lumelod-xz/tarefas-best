@@ -1,0 +1,56 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+ 
+header { 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 1em; 
+    text-align: center; 
+} /* header mão estava fechado corretamente */
+ 
+nav ul { 
+    list-style: none; 
+    padding: 0; 
+    display: flex; 
+    justify-content: center; 
+} 
+ 
+nav ul li { 
+    margin: 0 15px; 
+} 
+ 
+nav ul li a { 
+    color: white; 
+    text-decoration: none; /* Não é "null" e sim "none" */
+} 
+ 
+.profile { 
+    text-align: center; 
+    padding: 2em 0; 
+} 
+ 
+.profile img { 
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+} 
+ 
+.skills { 
+    padding: 2em; 
+    background-color: #f9f9f9; /* Corrigido de "#f9f9f9red" não existe" */
+} 
+ 
+.skills h3 { 
+    text-align: center; 
+} /* Corrigido o seletor para .skills h3 */
+ 
+footer { 
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    padding: 1em 0; 
+}

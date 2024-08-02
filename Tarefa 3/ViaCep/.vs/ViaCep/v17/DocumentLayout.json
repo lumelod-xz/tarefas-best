@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Desktop\\Tarefa 3\\ViaCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1939273-F762-481A-BEFD-DC98240CA44E}|ViaCep\\ViaCep.csproj|c:\\users\\lucas\\desktop\\tarefa 3\\viacep\\viacep\\controller\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1939273-F762-481A-BEFD-DC98240CA44E}|ViaCep\\ViaCep.csproj|solutionrelative:viacep\\controller\\cepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CepController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Desktop\\Tarefa 3\\ViaCep\\ViaCep\\Controller\\CepController.cs",
+              "RelativeDocumentMoniker": "ViaCep\\Controller\\CepController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Desktop\\Tarefa 3\\ViaCep\\ViaCep\\Controller\\CepController.cs",
+              "RelativeToolTip": "ViaCep\\Controller\\CepController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:27:39.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

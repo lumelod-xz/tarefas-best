@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\bin\Debug\net8.0\Fibonacci_Console.exe
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\bin\Debug\net8.0\Fibonacci_Console.deps.json
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\bin\Debug\net8.0\Fibonacci_Console.runtimeconfig.json
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\bin\Debug\net8.0\Fibonacci_Console.dll
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\bin\Debug\net8.0\Fibonacci_Console.pdb
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.dll
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\refint\Fibonacci_Console.dll
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.pdb
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\Fibonacci_Console.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Fibonacci_Console\Fibonacci_Console\obj\Debug\net8.0\ref\Fibonacci_Console.dll

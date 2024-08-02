@@ -1,0 +1,46 @@
+<!DOCTYPE html> <!-- Não tinha o Doctype -->
+<html lang="pt-BR"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Perfil do Usuário</title> 
+    <link rel="stylesheet" href="style.css"> <!-- Corrigido: antes estava "stile.css" para "style.css" -->
+</head> 
+<body> 
+    <header> 
+        <h1>Perfil do Usuário</h1> 
+        <nav> 
+            <ul> 
+                <li><a href="#">Home</a></li> 
+                <li><a href="#">Sobre</a></li> 
+                <li><a href="#">Contato</a></li> <!-- Fechado a tag <a> corretamente -->
+            </ul> 
+        </nav> 
+    </header> 
+ 
+    <section class="profile"> 
+        <img src="images/user.jpg" alt="Foto do Usuário"> 
+        <h2>Nome do Usuário</h2> 
+        <p>Esta é uma breve descrição ou biografia do usuário.</p> 
+    </section> 
+ 
+    <section class="skills"> 
+        <h3>Habilidades</h3> 
+        <ul> 
+            <li>Habilidade 1</li> 
+            <li>Habilidade 2</li> 
+            <li>Habilidade 3</li> <!-- As tags <a> <li> não estava fechadas corretamente -->
+        </ul> 
+    </section> 
+ 
+    <footer> 
+        <p>Contato: email@dominio.com | Telefone: (11) 1234-5678</p> <!-- Fechado a tag <p> corretamente -->
+        <p> 
+            <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> | 
+            <a href="https://www.github.com" target="_blank">GitHub</a> 
+        </p> <!-- A tag <p> não estava fechadas corretamente -->
+    </footer> 
+ 
+    <script src="script.js"></script> 
+</body> 
+</html>
